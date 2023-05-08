@@ -15,7 +15,6 @@
             width:1500px;
             height:550px;
             position:relative;
-            /* 3D */
             transform-style:preserve-3d;
             transition:1.5s;
         }
