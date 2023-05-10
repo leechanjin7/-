@@ -16,6 +16,7 @@
             display: flex;
             box-sizing: border-box;
             margin-right:-35px;
+            cursor: pointer;
         }
         .footer>.foote--left{
             margin: 0px;
