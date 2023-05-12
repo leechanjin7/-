@@ -46,8 +46,8 @@ header>.menu>ul{
     width:100%;
     justify-content: space-evenly;
     line-height:100px;
-    padding-left:-500px; 
-    padding-top:-30px;               
+    /* padding-left:-500px; 
+    padding-top:-30px;                */
 }
 header>.menu>ul>li{
     display:block;
